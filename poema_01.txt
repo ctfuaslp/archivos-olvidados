@@ -1,0 +1,56 @@
+Recordatorios importantes:
+- Reunión con el equipo de seguridad el martes a las 10:00 AM. Preparar el reporte de vulnerabilidades.
+- Revisar el pull request #247 antes del miércoles. Tiene cambios críticos para el módulo de autenticación.
+- No olvidar enviar la solicitud de vacaciones para el próximo mes. La fecha límite es el viernes.
+- Llamar al proveedor de hosting para resolver el issue de latency. Referencia: ticket #HT-7832.
+- Preparar la demo para el cliente el próximo jueves. Enfocarse en las nuevas características de reporting.
+
+Recordatorios personales:
+- Cumpleaños de mamá el sábado. Comprar regalo y reservar en el restaurante.
+- Revisar el coche para el service anual. La luz de check engine está encendida again.
+- Pagar la factura de electricity antes del viernes para evitar recargos.
+- Devolver el libro a la biblioteca. Ya está vencido desde la semana pasada.
+- Comprar ingredientes para la cena de fin de semana. Invité a algunos amigos.
+
+// Este módulo maneja la autenticación de usuarios
+// TODO: Implementar autenticación de dos factores
+// TODO: Agregar logging de intentos fallidos
+// TODO: Revisar vulnerabilidades de timing attacks
+
+function authenticateUser(username, password) {
+  // Verificar si el usuario existe en la base de datos
+  const user = db.getUser(username);
+  
+  if (!user) {
+    return { success: false, message: 'Usuario no encontrado' };
+  }
+  
+  // Verificar la contraseña usando bcrypt
+  const passwordMatch = bcrypt.compareSync(password, user.hashedPassword);
+  
+  if (!passwordMatch) {
+    // Registrar intento fallido
+    logFailedAttempt(username);
+    return { success: false, message: 'Contraseña incorrecta' };
+  }
+  
+  // Generar token JWT
+  const token = generateJWT(user);
+  
+  return { success: true, token: token, user: user };
+}
+
+// Notas para futuras mejoras:
+// - Considerar implementar rate limiting para prevenir brute force
+// - Evaluar usar WebAuthn para autenticación sin contraseña
+// - Revisar expiración de tokens actual (24h podría ser demasiado)
+
+He estado pensando en crear una aplicación para ayudar a las personas a gestionar su huella digital. La idea es que los usuarios puedan ver dónde tienen cuentas activas, qué datos han compartido, y recibir alertas cuando sus datos aparezcan en breaches conocidos.
+
+La aplicación escanearía el correo electrónico del usuario para identificar servicios donde se haya registrado (basándose en correos de bienvenida, facturas, etc.). Luego proporcionaría un dashboard con todas estas cuentas, clasificadas por categorías y nivel de riesgo. Los usuarios podrían marcar cuentas que ya no usan y la aplicación les ayudaría a eliminarlas.
+
+La parte más desafiante sería la integración con los diferentes servicios para facilitar el proceso de eliminación de cuentas. Algunos servicios tienen procesos sencillos, pero otros requieren contactar al soporte técnico directamente. Tal vez podríamos crear una base de datos colaborativa con instrucciones para eliminar cuentas en diferentes servicios. Otra idea interesante sería incluir plantillas de emails para solicitar la eliminación de datos según el GDPR u otras regulaciones de privacidad.
+
+
+
+[Última modificación: 12/05/2018]

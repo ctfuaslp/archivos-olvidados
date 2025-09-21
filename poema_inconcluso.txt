@@ -1,0 +1,17 @@
+<!-- Creado: 2024-03-30 23:11 -->
+
+
+La pizza con piña no está tan mal. La gente exagera.
+#include <stdio.h>
+
+int main() {
+    printf('Hola');
+    return 0;
+    /*IngeHack{69f9d172803bb3ae43d4f8228c750ee8}*/
+}
+
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+ls -la | grep .txt | wc -l
+
+La pizza con piña no está tan mal. La gente exagera.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
