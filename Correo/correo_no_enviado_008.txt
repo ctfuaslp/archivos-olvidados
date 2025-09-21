@@ -1,0 +1,45 @@
+Recordatorios importantes:
+- Reunión con el equipo de seguridad el martes a las 10:00 AM. Preparar el reporte de vulnerabilidades.
+- Revisar el pull request #247 antes del miércoles. Tiene cambios críticos para el módulo de autenticación.
+- No olvidar enviar la solicitud de vacaciones para el próximo mes. La fecha límite es el viernes.
+- Llamar al proveedor de hosting para resolver el issue de latency. Referencia: ticket #HT-7832.
+- Preparar la demo para el cliente el próximo jueves. Enfocarse en las nuevas características de reporting.
+
+Recordatorios personales:
+- Cumpleaños de mamá el sábado. Comprar regalo y reservar en el restaurante.
+- Revisar el coche para el service anual. La luz de check engine está encendida again.
+- Pagar la factura de electricity antes del viernes para evitar recargos.
+- Devolver el libro a la biblioteca. Ya está vencido desde la semana pasada.
+- Comprar ingredientes para la cena de fin de semana. Invité a algunos amigos.
+
+Recordatorios importantes:
+- Reunión con el equipo de seguridad el martes a las 10:00 AM. Preparar el reporte de vulnerabilidades.
+- Revisar el pull request #247 antes del miércoles. Tiene cambios críticos para el módulo de autenticación.
+- No olvidar enviar la solicitud de vacaciones para el próximo mes. La fecha límite es el viernes.
+- Llamar al proveedor de hosting para resolver el issue de latency. Referencia: ticket #HT-7832.
+- Preparar la demo para el cliente el próximo jueves. Enfocarse en las nuevas características de reporting.
+
+Recordatorios personales:
+- Cumpleaños de mamá el sábado. Comprar regalo y reservar en el restaurante.
+- Revisar el coche para el service anual. La luz de check engine está encendida again.
+- Pagar la factura de electricity antes del viernes para evitar recargos.
+- Devolver el libro a la biblioteca. Ya está vencido desde la semana pasada.
+- Comprar ingredientes para la cena de fin de semana. Invité a algunos amigos.
+
+Recordatorios importantes:
+- Reunión con el equipo de seguridad el martes a las 10:00 AM. Preparar el reporte de vulnerabilidades.
+- Revisar el pull request #247 antes del miércoles. Tiene cambios críticos para el módulo de autenticación.
+- No olvidar enviar la solicitud de vacaciones para el próximo mes. La fecha límite es el viernes.
+- Llamar al proveedor de hosting para resolver el issue de latency. Referencia: ticket #HT-7832.
+- Preparar la demo para el cliente el próximo jueves. Enfocarse en las nuevas características de reporting.
+
+Recordatorios personales:
+- Cumpleaños de mamá el sábado. Comprar regalo y reservar en el restaurante.
+- Revisar el coche para el service anual. La luz de check engine está encendida again.
+- Pagar la factura de electricity antes del viernes para evitar recargos.
+- Devolver el libro a la biblioteca. Ya está vencido desde la semana pasada.
+- Comprar ingredientes para la cena de fin de semana. Invité a algunos amigos.
+
+
+
+[Última modificación: 04/06/2015]
