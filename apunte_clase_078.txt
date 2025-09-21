@@ -1,0 +1,21 @@
+He estado pensando en crear una aplicación para ayudar a las personas a gestionar su huella digital. La idea es que los usuarios puedan ver dónde tienen cuentas activas, qué datos han compartido, y recibir alertas cuando sus datos aparezcan en breaches conocidos.
+
+La aplicación escanearía el correo electrónico del usuario para identificar servicios donde se haya registrado (basándose en correos de bienvenida, facturas, etc.). Luego proporcionaría un dashboard con todas estas cuentas, clasificadas por categorías y nivel de riesgo. Los usuarios podrían marcar cuentas que ya no usan y la aplicación les ayudaría a eliminarlas.
+
+La parte más desafiante sería la integración con los diferentes servicios para facilitar el proceso de eliminación de cuentas. Algunos servicios tienen procesos sencillos, pero otros requieren contactar al soporte técnico directamente. Tal vez podríamos crear una base de datos colaborativa con instrucciones para eliminar cuentas en diferentes servicios. Otra idea interesante sería incluir plantillas de emails para solicitar la eliminación de datos según el GDPR u otras regulaciones de privacidad.
+
+He estado pensando en crear una aplicación para ayudar a las personas a gestionar su huella digital. La idea es que los usuarios puedan ver dónde tienen cuentas activas, qué datos han compartido, y recibir alertas cuando sus datos aparezcan en breaches conocidos.
+
+La aplicación escanearía el correo electrónico del usuario para identificar servicios donde se haya registrado (basándose en correos de bienvenida, facturas, etc.). Luego proporcionaría un dashboard con todas estas cuentas, clasificadas por categorías y nivel de riesgo. Los usuarios podrían marcar cuentas que ya no usan y la aplicación les ayudaría a eliminarlas.
+
+La parte más desafiante sería la integración con los diferentes servicios para facilitar el proceso de eliminación de cuentas. Algunos servicios tienen procesos sencillos, pero otros requieren contactar al soporte técnico directamente. Tal vez podríamos crear una base de datos colaborativa con instrucciones para eliminar cuentas en diferentes servicios. Otra idea interesante sería incluir plantillas de emails para solicitar la eliminación de datos según el GDPR u otras regulaciones de privacidad.
+
+Este documento presenta una propuesta para implementar un nuevo sistema de gestión de contraseñas en toda la organización. El sistema actual ha demostrado ser vulnerable en las últimas pruebas de penetración, y varios empleados han admitido reutilizar contraseñas across diferentes servicios.
+
+La solución propuesta es implementar un password manager empresarial que permita almacenar y compartir credenciales de forma segura. El sistema debería integrarse con nuestro directorio activo para simplificar el management de usuarios y permisos. Además, debería incluir características para generar contraseñas fuertes y alertar sobre contraseñas comprometidas en breaches públicos.
+
+La implementación se realizaría en fases, comenzando con un piloto en el departamento de TI antes de expandirlo a toda la organización. El proyecto incluiría sesiones de training para asegurar que todos los empleados comprendan cómo usar el sistema correctamente y entiendan la importancia de las buenas prácticas de higiene de contraseñas. Estimamos que el proyecto completo tomará aproximadamente seis meses, con un costo inicial de licencias de $X y costos ongoing de mantenimiento de $Y anuales.
+
+
+
+[Última modificación: 27/04/2021]

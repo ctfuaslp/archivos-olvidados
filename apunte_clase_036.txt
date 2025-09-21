@@ -1,0 +1,4 @@
+Apuntes de programación: los punteros son variables que almacenan direcciones de memoria
+
+[¿Esto sigue siendo relevante?]
+IngeHack{notas_sueltas_456}
