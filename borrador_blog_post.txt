@@ -1,0 +1,9 @@
+<!-- Creado: 2025-04-05 23:11 -->
+
+
+Apuntes de borrador_blog_post:
+
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.

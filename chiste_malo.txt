@@ -1,0 +1,20 @@
+<!-- Creado: 2024-11-09 23:11 -->
+
+
+Apuntes de chiste_malo:
+
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
