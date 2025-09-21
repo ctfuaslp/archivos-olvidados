@@ -1,0 +1,21 @@
+En la clase de hoy revisamos los conceptos fundamentales de la criptografía asimétrica. Este tipo de criptografía utiliza un par de claves: una pública para cifrar y una privada para descifrar. Esto soluciona el problema de distribución de claves que existe en la criptografía simétrica, donde la misma clave se usa para cifrar y descifrar.
+
+El algoritmo RSA es uno de los sistemas de criptografía asimétrica más utilizados. Se basa en la dificultad computacional de factorizar números enteros muy grandes. La seguridad de RSA depende de que, si bien es fácil multiplicar dos números primos grandes para obtener un producto, es extremadamente difícil factorizar ese producto para recuperar los primos originales.
+
+En la práctica, RSA se utiliza a menudo para establecer canales seguros de comunicación, como en el protocolo HTTPS. Después de establecer una conexión segura usando RSA para intercambiar una clave simétrica, la comunicación continúa usando algoritmos simétricos como AES, que son más eficientes para grandes volúmenes de datos. Es importante recordar que la longitud de la clave RSA afecta directamente a su seguridad, con 2048 bits siendo el mínimo recomendado actualmente.
+
+A veces me pregunto cómo sería el mundo si la tecnología no hubiera avanzado tan rápidamente. Vivimos en una era donde la información está disponible instantáneamente, pero ¿realmente somos más sabios? Hay tantas distracciones que a veces siento que perdemos la capacidad de concentrarnos profundamente en un solo tema.
+
+Recuerdo cuando era niño y pasaba horas en la biblioteca investigando para mis tareas. El proceso era más lento, pero quizás más deliberado. Hoy en día, con Google y Wikipedia, podemos encontrar respuestas rápidas, pero no siempre profundizamos en los temas. Hay valor en la inmediatez, pero también en la reflexión pausada.
+
+Me pregunto cómo será el mundo dentro de veinte años. ¿Seguiremos dependiendo tanto de los smartphones? ¿La inteligencia artificial habrá reemplazado muchos trabajos? ¿Encontraremos un equilibrio entre la tecnología y nuestra humanidad? Son preguntas sin respuesta, pero interesantes de contemplar. Tal vez debería escribir más sobre estos temas, no solo dejarlos como pensamientos fugaces.
+
+En la clase de hoy revisamos los conceptos fundamentales de la criptografía asimétrica. Este tipo de criptografía utiliza un par de claves: una pública para cifrar y una privada para descifrar. Esto soluciona el problema de distribución de claves que existe en la criptografía simétrica, donde la misma clave se usa para cifrar y descifrar.
+
+El algoritmo RSA es uno de los sistemas de criptografía asimétrica más utilizados. Se basa en la dificultad computacional de factorizar números enteros muy grandes. La seguridad de RSA depende de que, si bien es fácil multiplicar dos números primos grandes para obtener un producto, es extremadamente difícil factorizar ese producto para recuperar los primos originales.
+
+En la práctica, RSA se utiliza a menudo para establecer canales seguros de comunicación, como en el protocolo HTTPS. Después de establecer una conexión segura usando RSA para intercambiar una clave simétrica, la comunicación continúa usando algoritmos simétricos como AES, que son más eficientes para grandes volúmenes de datos. Es importante recordar que la longitud de la clave RSA afecta directamente a su seguridad, con 2048 bits siendo el mínimo recomendado actualmente.
+
+
+
+[Última modificación: 25/10/2016]
