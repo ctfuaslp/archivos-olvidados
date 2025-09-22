@@ -1,0 +1,10 @@
+<!-- Creado: 2023-06-04 23:11 -->
+
+
+Apuntes de apuntes_historia:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.

@@ -1,0 +1,22 @@
+LISTA DE TAREAS/PENDIENTES:
+
+- Backup del servidor
+- Limpiar la casa
+- Llamar al doctor [HECHO]
+- Backup del servidor [HECHO]
+- Backup del servidor
+- Aprender Rust [HECHO]
+- Aprender Rust [HECHO]
+- Hacer ejercicio
+- Limpiar la casa
+- Limpiar la casa
+- Hacer ejercicio [HECHO]
+- Responder correo de María
+- Backup del servidor
+- Comprar leche [HECHO]
+- Hacer ejercicio
+- Aprender Rust
+- Responder correo de María
+- Aprender Rust
+- Limpiar la casa [HECHO]
+- Hacer ejercicio

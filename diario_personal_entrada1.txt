@@ -1,0 +1,15 @@
+<!-- Creado: 2024-07-27 23:11 -->
+
+
+Apuntes de diario_personal_entrada1:
+
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).

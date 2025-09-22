@@ -1,0 +1,21 @@
+<!-- Creado: 2024-02-19 23:11 -->
+
+
+LISTA DE TAREAS/PENDIENTES:
+
+- Aprender Rust
+- Comprar leche [HECHO]
+- Limpiar la casa
+- Backup del servidor
+- Backup del servidor
+- Responder correo de María
+- Hacer ejercicio
+- Responder correo de María [HECHO]
+- Responder correo de María [HECHO]
+- Backup del servidor
+- Responder correo de María
+- Terminar el proyecto [PENDIENTE]
+- Aprender Rust
+- Backup del servidor [HECHO]
+- Backup del servidor [HECHO]
+- Terminar el proyecto

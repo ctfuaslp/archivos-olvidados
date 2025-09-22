@@ -1,0 +1,11 @@
+<!-- Creado: 2023-05-02 23:11 -->
+
+
+Apuntes de lecturas_pendientes:
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
