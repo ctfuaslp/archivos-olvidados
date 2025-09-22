@@ -1,0 +1,31 @@
+<!-- Creado: 2023-01-11 23:11 -->
+
+
+# Fragmento de código viejo/descartado
+
+for i in range(10):
+    print(i)
+
+ls -la | grep .txt | wc -l
+
+ls -la | grep .txt | wc -l
+
+for i in range(10):
+    print(i)
+
+def hello_world():
+    print('Hello, world!')
+
+def hello_world():
+    print('Hello, world!')
+
+ls -la | grep .txt | wc -l
+
+#include <stdio.h>
+
+int main() {
+    printf('Hola');
+    return 0;
+}
+
+ls -la | grep .txt | wc -l

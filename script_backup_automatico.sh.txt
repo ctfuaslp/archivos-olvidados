@@ -1,0 +1,15 @@
+# Fragmento de código viejo/descartado
+
+ls -la | grep .txt | wc -l
+
+ls -la | grep .txt | wc -l
+
+ls -la | grep .txt | wc -l
+
+for i in range(10):
+    print(i)
+
+import random
+num = random.randint(1, 100)
+
+ls -la | grep .txt | wc -l

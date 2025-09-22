@@ -1,0 +1,6 @@
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+for i in range(10):
+    print(i)
+
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
