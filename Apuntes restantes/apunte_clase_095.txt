@@ -1,0 +1,3 @@
+Notas de clase de algoritmos: complejidad temporal O(n log n)...
+
+[Fin del documento]
