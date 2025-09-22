@@ -1,0 +1,10 @@
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+def hello_world():
+    print('Hello, world!')
+
+import random
+num = random.randint(1, 100)
+
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.

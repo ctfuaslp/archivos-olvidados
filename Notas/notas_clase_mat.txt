@@ -1,0 +1,9 @@
+<!-- Creado: 2023-08-18 23:11 -->
+
+
+¿Por qué la gente le tiene miedo a los payasos? Nunca lo entendí.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor.

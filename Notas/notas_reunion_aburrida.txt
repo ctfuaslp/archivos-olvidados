@@ -1,0 +1,13 @@
+Apuntes de notas_reunion_aburrida:
+
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

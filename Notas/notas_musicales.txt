@@ -1,0 +1,24 @@
+# Fragmento de código viejo/descartado
+
+ls -la | grep .txt | wc -l
+
+#include <stdio.h>
+
+int main() {
+    printf('Hola');
+    return 0;
+}
+
+ls -la | grep .txt | wc -l
+
+#include <stdio.h>
+
+int main() {
+    printf('Hola');
+    return 0;
+}
+
+for i in range(10):
+    print(i)
+
+ls -la | grep .txt | wc -l
