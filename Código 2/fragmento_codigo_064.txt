@@ -1,0 +1,4 @@
+# TODO: Optimizar esta función
+function validarEmail(email) {...}
+
+[Este archivo parece estar incompleto]

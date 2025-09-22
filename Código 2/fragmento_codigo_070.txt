@@ -1,0 +1,4 @@
+# TODO: Optimizar esta función
+function validarEmail(email) {...}
+
+[¿Esto sigue siendo relevante?]

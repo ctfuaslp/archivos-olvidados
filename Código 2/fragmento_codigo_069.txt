@@ -1,0 +1,4 @@
+<!-- Formulario pendiente de revisión -->
+<form action='procesar.php'>...
+
+[Este archivo parece estar incompleto]
