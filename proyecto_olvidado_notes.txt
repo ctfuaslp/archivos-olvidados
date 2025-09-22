@@ -1,0 +1,38 @@
+<!-- Creado: 2023-02-28 23:11 -->
+
+
+Debería aprender a tocar el theremín. Suena a ciencia ficción.
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+¿Qué habría pasado si Napoleón tuviera internet?
+Hoy vi un pájaro de un color azul brillante. Nunca había visto uno así.
+def hello_world():
+    print('Hello, world!')
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+¿Por qué la gente le tiene miedo a los payasos? Nunca lo entendí.
+ls -la | grep .txt | wc -l
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+#include <stdio.h>
+
+int main() {
+    printf('Hola');
+    return 0;
+}
+
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#include <stdio.h>
+
+int main() {
+    printf('Hola');
+    return 0;
+}
+
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

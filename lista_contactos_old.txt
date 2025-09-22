@@ -1,0 +1,10 @@
+<!-- Creado: 2023-02-20 23:11 -->
+
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+La pizza con piña no está tan mal. La gente exagera.
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+¿Qué habría pasado si Napoleón tuviera internet?
+¿Por qué la gente le tiene miedo a los payasos? Nunca lo entendí.

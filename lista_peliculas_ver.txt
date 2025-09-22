@@ -1,0 +1,11 @@
+<!-- Creado: 2024-02-09 23:11 -->
+
+
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Hoy vi un pájaro de un color azul brillante. Nunca había visto uno así.
+¿Por qué la gente le tiene miedo a los payasos? Nunca lo entendí.
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor.

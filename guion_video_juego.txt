@@ -1,0 +1,26 @@
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+def hello_world():
+    print('Hello, world!')
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+for i in range(10):
+    print(i)
+
+Hoy vi un pájaro de un color azul brillante. Nunca había visto uno así.
+Hoy vi un pájaro de un color azul brillante. Nunca había visto uno así.
+¿Por qué la gente le tiene miedo a los payasos? Nunca lo entendí.
+def hello_world():
+    print('Hello, world!')
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+La Revolución Francesa comenzó en 1789 con la toma de la Bastilla.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+La derivada de una función en un punto representa la pendiente de la recta tangente en ese punto.
+El algoritmo de ordenación quicksort tiene una complejidad promedio de O(n log n).
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

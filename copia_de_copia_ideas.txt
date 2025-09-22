@@ -1,0 +1,15 @@
+<!-- Creado: 2024-10-31 23:11 -->
+
+
+LISTA DE TAREAS/PENDIENTES:
+
+- Comprar leche [HECHO]
+- Llamar al doctor [HECHO]
+- Backup del servidor
+- Terminar el proyecto [HECHO]
+- Backup del servidor [PENDIENTE]
+- Responder correo de María
+- Hacer ejercicio
+- Aprender Rust
+- Llamar al doctor [HECHO]
+- Llamar al doctor

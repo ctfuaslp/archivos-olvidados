@@ -1,0 +1,9 @@
+Apuntes de plan_mundial_dominacion:
+
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+Para conectar a una base de datos MySQL desde Python, se puede usar la biblioteca mysql-connector-python.
+El protocolo HTTP funciona sobre TCP y utiliza métodos como GET, POST, PUT, DELETE.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor.

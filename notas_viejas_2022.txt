@@ -1,0 +1,6 @@
+Apuntes varios sobre el proyecto Alpha. Parece que hubo un error en la fase 3.
+Revisar los logs del día 2022-03-15. La variable de entorno clave era: KEY_XYZ_123.
+
+Nota mental: La contraseña maestra no se debe guardar en texto plano, pero como es un respaldo local...
+
+El resto de los archivos parece ser solo basura o ideas descartadas.
